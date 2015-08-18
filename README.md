@@ -1,7 +1,9 @@
 # POI_Utilities
 Apache POI Utilities
 
+Hi Friends,
 
-Soon a small class of Apache POI Utilities for populating a Java list in to a file will be available.....Keep watching...
+I would like to share with you a small Apache POI Utility that can help you in populating a list of String data into a row or column. It can also help you in given a Named Rage.
 
-Rajeev
+Thanks,
+Venkata Rajeev Mandava
